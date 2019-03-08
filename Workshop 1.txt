@@ -29,4 +29,26 @@ Chamonix graduate program manager - Ashley Green
 		- Maintainability
 		- Security
 		
+	Ashleys ideas
+	
+	Docs
+	Colab
+	Publish
+	
+	Comittee structure
+		 members
+		 house
+		 portfolio
+		 Comittees
+	
+	Web interface for general public
+	
+	
+	There will likely be two software delivery dates
+		- we can do as many "sprints" per delivery as we like.
+		
+	
+	
+		 
+		 
 	
