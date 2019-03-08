@@ -1,0 +1,32 @@
+Chamonix graduate program manager - Ashley Green
+	
+	Project - Parliment management system
+		- collaboration
+		- information
+		- publishing to public
+			
+	Group formed 
+		- 
+		
+	Documents
+		- could be 50 comiities
+			- 7 - 12 members
+			- private and public docs.
+		- 2 - 5 comitee management people 
+			- admins. - can modify commity members etc.
+	Hosting
+		- can do.
+		- should not cost money.
+		- Finding existing things vs. custom build will affect how functional the application is at the end.
+			
+	Elements of...
+		- Requirement elicitation.
+		- Design options analysis.
+		- Implementations
+		
+	Considerations	
+		- Cost
+		- Maintainability
+		- Security
+		
+	
