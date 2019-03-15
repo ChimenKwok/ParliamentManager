@@ -1,0 +1,43 @@
+RESOURCES
+	FLO
+	CMMI
+	SWEBOK
+	ITIL
+	COBIT 
+	IEEE SE standards
+	Software Engineering Process with UPEDU, PEarson education - UPEDU.org
+
+LECTURE
+
+	life cycle vs process
+		software life-cycle
+			continuous, customer focus, deliverables, what?
+			
+		process
+			steps, day-to-day, methodology, how?
+			
+			- "every software has the same life-cycle.(High level - conception, requirements, delivery, death.) but different process."
+	
+
+	development cycle
+					inception, 		elaboration,     		construction,          		transition (to user)
+								^					^	   						^							^
+		milestones:			objective          architecture			operational capability				  release
+	
+		first cycle is "development cycle", subsequent cycles are "evolution cycles"
+		
+	Challenging the process -
+		why this? what if that?
+		
+	
+	Role - Activity  - Artifact
+		Engineer (or team) eg System analyst, describe usecase, use case diagram
+		
+	
+		
+		
+	
+		
+
+
+	

@@ -1,0 +1,74 @@
+Lecture 2
+
+Unifiend Process - Per cycle/ per release
+	Inception
+	Elaboration
+	construction
+	Transition
+		
+	Distinct from  Disciplines eg.
+		Requirements
+		analysis and desing
+		implementation
+		testing
+		
+development cycle vs. Evolution cycle
+	- One iteration of the unified process
+	development cycle - first time round
+	evolution cycle - subsequent releases
+	
+Iteration
+	- sequence of activities encompassed in a plan. 
+	- produces or modifies artifacts.
+	- can not generally be planned several iterations in advance
+	
+	how is this different from a "sprint"
+		- may not encompass all 4 elements of UP
+		- may exist within one phase
+		
+Factors that influence Process
+	life cycle
+	application domain
+		- how much is on the line?
+	Process
+		- are you following a defined process?
+		- standards
+		- models (watefall, agile, spiral)
+	people / organisation
+		- How big?
+		- Existing practices
+		- politics
+
+process analysis is designed to figure out if you are doing things the optimum way
+
+	SEI Software Engineering Institute
+	CMu Carnegie Mellon University
+	CMM Capabitilty Maturity Model
+	CMMMI Capabitlity Maturity Model Integration
+	
+CMM
+	framework describing key elements of effective processes
+				
+	for meeting 
+		cost
+		Schedule
+		Functionality
+		quality
+	
+	Key Elements of a proccess		
+		Role 
+		Artifacts
+		Activities
+		
+Process Focus
+	vs People Focus
+		- people on average are as good as their tringing
+	vs Technology Focus
+		- 
+		
+Summary		
+	Model - what to do
+	Process - how to do it
+
+
+		
