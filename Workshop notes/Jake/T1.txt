@@ -1,0 +1,33 @@
+QA:
+-committee section parliment.sa.gov.au showing current problems
+-discuss hosting options in repot 
+-share point check in check out
+-low probability of people working on the same document at same time
+-offline style editing could work
+-up to 50 committees at one time
+-each committee 7-12 members
+-private vs public documents. Private get reviewed before published
+-2-5 people to set up and manage committee information
+-proof of concepts on one pc is fine 
+-committee reports are 
+-different types of committees temp for problem (select) and more permanent types
+-one spot on the website to simply hold the committee reports
+-consider cost of multiple hosting / distribution options, security
+-digitising old files not required in main project, might be worth just mentioning that they can be scanned to pdf
+-dummy reports / files fine for this scope
+-committee membership - who is on committee
+-every committee gets a public servant as a secretary 
+-committee members have different roles, but set roles are always the same (just to different people) 
+-look at types of documents that become public documents on website 
+-not being used by members of committees  
+-time based historical member records required 
+-data retention options / policies 
+-committee structure
+	-member
+	-house
+	-prtfolio
+	-committees 
+-g-suite or sharepoint can be used as back end
+-ok for manual step for document to be published to public by public servant  
+-microsoft teams collaboration for committee then push to web, could also have public face
+-ISO 27001 security standard for architecture as well as OWASP & ASD recommendations
