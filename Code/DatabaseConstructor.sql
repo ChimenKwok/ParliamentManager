@@ -12,16 +12,9 @@ DROP TABLE if EXISTS link_report_member CASCADE;
 -- create enums
 
 -- Title enum
-CREATE TYPE TITLE AS ENUM(
-'Mr.',
-'Mrs.',
-'Ms.',
-'Maddam',
-'Sir.',
-'Dr.',
-'Prof.',
-'Master',
-'Dame'
+CREATE TABLE title(
+id SERIAL PRIMARY KEY,
+title STRING
 )
 
 -- create tables
@@ -36,7 +29,8 @@ CREATE TABLE report(
 id SERIAL PRIMARY KEY,
 committee_id INTEGER REFERENCES committee(id),
 name STRING,
-url STRING
+url STRING,
+access ACCESS
 );
 
 -- table for holding member data
@@ -48,7 +42,7 @@ name_id INTEGER REFERENCES member_name(id)
 -- table for holding member names
 CREATE TABLE member_name(
 id SERIAL PRIMARY KEY,
-title TITLE,
+title_id INTEGER REFERENCES title(id),
 first STRING,
 last STRING
 );
@@ -56,9 +50,10 @@ last STRING
 -- table for holding portfolio data
 CREATE TABLE portfolio(
 id SERIAL PRIMARY KEY,
-
+name STRING,
+member_id REFERENCES member(id),
+CONSTRAINT name UNIQUE
 -- TODO : i am not sure what goes in this table.
-
 );
 
 -- create many-many linking tables
