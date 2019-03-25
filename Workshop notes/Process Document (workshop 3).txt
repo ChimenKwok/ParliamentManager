@@ -7,9 +7,11 @@ Jobs for this week
 		
 	Actor
 		mem of public
-		parlimentary officer
+			 - 
 		parlimentary staff
+			
 		mem of comiteee
+			- 
 		admin		
 		parlimentary officer (per committy)
 		
@@ -32,6 +34,7 @@ Jobs for this week
 		Process document - requirements
 		
 		user story - admin
+		revise database conceptual model
 		
 	Simmy
 		Process document - 
