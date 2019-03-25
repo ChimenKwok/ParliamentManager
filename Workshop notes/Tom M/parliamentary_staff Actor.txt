@@ -1,0 +1,42 @@
+parliamentary staff
+
+login
+	As a parliamentary staff member, I want to be able to log in, 
+	so that I can view information that I have access to, 
+	but is not publicly available
+	
+log out
+	As a parliamentary staff member, I want to be able to log out,
+	so that others can not use my account to view information.
+	
+view dashboard after logging in
+	As a parliamentary staff member, I want to see a dashboard after
+	logging in, so that I can view the most important functions at a 
+	glance.
+	
+view my committees
+	As a parliamentary staff member, I want to be able to navigate to a 
+	"my committees" page from my dashboard where I can view a list of 
+	committees that I am a member of, so that I can more easily find
+	information relevant to me.
+	
+navigate to committee page
+	As a parliamentary staff member, I want to be able to navigate to a
+	committee page by clicking on that committee name in "my committees",
+	so that I can view the information specific to that committee.
+	
+view personal information
+	As a parliamentary staff member, I want to be able navigate to a "my info"
+	page from the dashboard, so that I can easily view my personal information.
+
+update personal information
+	as a parliamentary staff member, I want to be able to edit my personal
+	information by clicking "edit" from the "my info" page, so that I can 
+	upate my personal information.
+	
+view document list
+	as a parliamentary staff member, I want to be able to navigate to a 
+	"my documents" page from the dashboard, where I can view a list of
+	the documents that i have edit access to, so that i can easily keep 
+	track of all of the documents that I can edit.
+	
