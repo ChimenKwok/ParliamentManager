@@ -1,0 +1,163 @@
+Jobs for this week
+
+	focus
+		process document
+		requirements document
+		
+		
+	Actor
+		mem of public
+		parlimentary officer
+		parlimentary staff
+		mem of comiteee
+		admin		
+		parlimentary officer (per committy)
+		
+		
+	
+		user stories
+			public viewing a document (published)
+			public viewing a Member
+			public viewing comittee
+			
+			member viewing/editing document (in progress)
+			member login
+			member viewing comittee
+		
+	Tom M
+		Process document - 
+		user story -  parlimentary staff
+	
+	Tom A
+		Process document - requirements
+		
+		user story - admin
+		
+	Simmy
+		Process document - 
+	
+		user story - parlimentary officer
+		
+	Chimen
+		Process document - 
+	
+		user story - public
+		
+	Jake
+		Process document - 
+
+		user story -
+		
+	Simon
+	
+		- member of comitee 
+
+
+Process Document
+
+Overall Process Description
+	Iterations
+		define Activity
+		
+
+Requirements
+	
+	Scope
+	
+		
+	Inputs
+		
+		
+	Artifacts
+		- requirements document	
+			- functional requirements
+				- stories
+				- UML diagrams (use case diagram)
+			- non-functional requirement
+				- list (text)
+		
+	Activities
+		brainstorm stories
+		illicit requirements from ashley
+		
+	Roles
+		Requirements analyst
+		
+
+Design
+
+	Scope
+		
+	Inputs
+		- Requirements document
+		- 
+		
+	Artifacts
+		use case diagrams
+		database diagrams
+		conceptual model
+		class diagram
+		Graphic mockups
+		Architectural diagram
+	
+	Activities
+	
+	Roles
+		System Architect
+		Graphic Design
+		
+
+	
+Implementation
+
+	Scope
+	
+	
+	Inputs
+	
+	Artifacts
+	
+	Activities
+		develop database schema 
+		develop UI- angular
+		develop Data access
+		develop 
+		
+	Roles
+		Developer
+		
+		
+Test
+	Scope
+	Inputs
+	Artifacts
+		test document (excel)
+		
+		
+	Activities
+		Unit testing of Data access
+		code review
+		integration testing
+		system testing
+	Roles
+		
+	
+
+Project Mangement
+	Scope
+	Inputs
+	Artifacts
+		- Budget documents
+		
+	Activities
+		
+	Roles
+
+Configuration and Change Management
+	Scope
+	Inputs
+	Artifacts
+		git logs
+		
+	Activities
+	Roles
