@@ -1,0 +1,27 @@
+Meeting Mins: 29-03
+
+User stories are coming along well
+went through user stories quickly all together 
+
+does google have costs involved for storing documents online. Talk about scalability and security of using google docs. 
+
+Consider talking about migrating existing documents to google docs 
+
+name of project / program is parliamentary manager
+
+group name is group 4
+
+what to do before monday
+- turning user stories into requirements that can be validated 
+    - list names of activities and artefacts that can come out of the committees (Tom M) 
+- project management - gantt chart as artefact for project (Jake) 
+    - 4 phases, 2 talks ect 
+    - could start doing some other project management processes
+    - talk about dispute management processes 
+    - process of us doing meeting mins ect
+- all go through and review user stories 
+- class diagram - high level of program architecture (Simran) 
+    - use case diagram for each actor
+- set up process document (Tom A) 
+- some more implementation / design (Simon) 
+- Start looking at the configuration management (GitHub as an example) - Chiman
