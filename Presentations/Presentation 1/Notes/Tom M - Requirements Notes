@@ -1,0 +1,46 @@
+SE4 Presentation - Requirements
+
+What we aimed to produce:
+	- A Lightweight SRS.
+	- Sufficient detail to begin design phase in earnest.
+
+
+Process Activities: 
+(For each activity, show (an excerpt of) the inputs and artifcacts)
+
+	- Iterative process to developing Lightweight SRS
+	
+	- Elicit requirements from "domain expert" Ashley
+		Inputs - domain knowledge
+		Artifacts - Notes
+	
+	- Determine Actors
+		Inputs - Notes
+		Artifacts - List of Actors.
+	
+	- Brain storm user stories
+		Inputs - Notes, List of Actors
+		Artifacts - User Stories for each actor
+		
+	- Develop Functional Requirements
+		Inputs - User Stories
+		Artifacts - Functional Requirements List
+		
+	- Develop Non-Functional Requirements.
+		Inputs - Notes
+		Artifacts - Non-Functional Requirements List
+		
+	- Determine Verification Success Criteria.
+		Inputs - Functional Requirements List, Non-Functional Requirements List
+		Artifacts - Verification Cross Reference Matrix VCRM
+		
+	- Assemble SRS (Current Activity)
+		Inputs - Notes, List of Actors, User Stories, Functional Requirements List, Non-Functional Requirements List, VCRM
+		Outputs - SRS
+		
+Outcome:
+	- We are ready to assemble the SRS.
+	- We have enough detail to ramp up the design phase.
+	- Requirements phase is ramping down.
+	- We will re-address the requirments, periodically.
+	
