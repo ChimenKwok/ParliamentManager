@@ -25,3 +25,4 @@ what to do before monday
 - set up process document (Tom A) 
 - some more implementation / design (Simon) 
 - Start looking at the configuration management (GitHub as an example) - Chiman
+testing
