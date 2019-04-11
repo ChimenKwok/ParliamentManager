@@ -22,6 +22,10 @@ Process Activities:
 		Inputs - Notes, List of Actors
 		Artifacts - User Stories for each actor
 		
+	- Review User Stories
+		Inputs - User Stories
+		Artifacts - User Stories (Honed)
+		
 	- Develop Functional Requirements
 		Inputs - User Stories
 		Artifacts - Functional Requirements List
@@ -33,6 +37,10 @@ Process Activities:
 	- Determine Verification Success Criteria.
 		Inputs - Functional Requirements List, Non-Functional Requirements List
 		Artifacts - Verification Cross Reference Matrix VCRM
+		
+	- Review
+		Inputs - VCRM
+		Artifacts - VCRM (Honed)
 		
 	- Assemble SRS (Current Activity)
 		Inputs - Notes, List of Actors, User Stories, Functional Requirements List, Non-Functional Requirements List, VCRM
